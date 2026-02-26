@@ -1,7 +1,7 @@
 # Quem sou eu?
 Meu nome é **Arthur Torres**, sou um estudante da **Universidade Federal de Pernambuco(UFPE)**, mais especificamente do **Centro de Informática(CIn)**, no qual eu estudo **Ciências da computação** desde 2026.
 Sou apaixonado por matemática, por física e, é claro, por programação. Atualmente, estudo Python3, Javascript, HTML5 e CSS3. Entretanto já criei inúmeros projetos com Visual Basic(VBA). 
-Não só isso, mas também estudo bastante línguas como o alemão e o inglês, o qual é considerado nível B2 pelo Cambridge-Linguaskill.
+Não só isso, mas também estudo bastante línguas como o alemão, espanhol e inglês, o qual é considerado nível B2 pelo Cambridge-Linguaskill.
 
 # Minhas Linguagens
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
