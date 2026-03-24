@@ -13,3 +13,4 @@ CS50x - Introdução à programação com Harvard
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JS](https://img.shields.io/badge/JAVASCRIPT-grey?style=for-the-badge&logo=javascript)
 ![PY](https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=sql)
