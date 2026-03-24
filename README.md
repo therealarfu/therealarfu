@@ -4,11 +4,11 @@ Sou apaixonado por matemática, por física e, é claro, por programação. Atua
 Não só isso, mas também estudo bastante línguas como o alemão, espanhol e inglês, o qual é considerado nível B2 pelo Cambridge-Linguaskill.
 
 # Cursos online que estou fazendo...
-CS50x - Introdução à programação com Harvard
-CS50py - Introdução a python
+* CS50x - Introdução à programação com Harvard 
+* CS50py - Introdução a python
 
 # Linguagens e ferramentas que estou estudando:
-Python
-Javascript
-HTML e CSS
-SQL
+* Python
+* Javascript
+* HTML e CSS
+* SQL
