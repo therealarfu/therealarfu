@@ -5,12 +5,10 @@ Não só isso, mas também estudo bastante línguas como o alemão, espanhol e i
 
 # Cursos online que estou fazendo...
 CS50x - Introdução à programação com Harvard
+CS50py
 
-# Minhas Linguagens
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JS](https://img.shields.io/badge/JAVASCRIPT-grey?style=for-the-badge&logo=javascript)
-![PY](https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=python)
-![SQL](https://img.shields.io/badge/PYTHON-grey?style=for-the-badge&logo=sql)
+# Linguagens e ferramentas que estou estudando:
+Python
+Javascript
+HTML e CSS
+SQL
