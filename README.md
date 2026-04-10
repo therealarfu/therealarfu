@@ -12,3 +12,4 @@ Não só isso, mas também estudo muito línguas como o espanhol e o inglês, o 
 * Javascript
 * HTML e CSS
 * SQL
+* Java
