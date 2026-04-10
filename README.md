@@ -6,6 +6,7 @@ Não só isso, mas também estudo muito línguas como o espanhol e o inglês, o 
 # Cursos online que estou fazendo...
 * CS50x - Introdução à programação com Harvard 
 * CS50py - Introdução a python
+* Curso em Vídeo - Java POO
 
 # Linguagens e ferramentas que estou estudando:
 * Python
