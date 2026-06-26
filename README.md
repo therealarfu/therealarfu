@@ -1,6 +1,6 @@
 # Studying...
-* Python
-* Javascript
-* HTML e CSS
-* SQL
-* Java
+* Django
+* React
+* Javascript and Nodejs
+* PostgreSQL
+* Springboot
