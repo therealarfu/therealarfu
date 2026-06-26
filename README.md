@@ -4,3 +4,4 @@
 * Javascript and Nodejs
 * PostgreSQL
 * Springboot
+* FastAPI
