@@ -1,7 +1,5 @@
 # Studying...
-* Django
-* React
-* Javascript and Nodejs
-* PostgreSQL
-* Springboot
-* FastAPI
+* curso.dev
+* competitive programming
+* CS50web
+* Physics and math
